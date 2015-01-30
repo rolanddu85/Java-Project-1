@@ -1,0 +1,9 @@
+id1,1000,c,AAA
+id2,1000,c,AA
+id3,1000,c,A
+id4,1000,m,AAA
+id5,1000,m,AA
+id6,1000,m,A
+id7,1000,s,AAA
+id8,1000,s,AA
+id9,1000,s,A

@@ -1,0 +1,9 @@
+99,c,AAA
+90,m,AAA
+80,s,AAA
+70,c,AA
+60,m,AA
+50,s,AA
+40,c,A
+30,m,A
+20,s,A
