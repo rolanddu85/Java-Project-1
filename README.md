@@ -2,17 +2,18 @@
 Financial asset optimization problem
 
 The scenario:
+
 You work for a financial company/institution that has a variety of assets (bonds & debt for example), but lacks cash. In order to obtain cash to pay it's employees and other expenses, they make a variety of deals to trade assets for cash everyday. There are a variety of asset classes and credit grades, but for simplicity, they are divided into these choices.
 
 Asset Classes:
-"c" = Corporate
-"m" = Municipal
-'s" = Soverign
+- "c" = Corporate
+- "m" = Municipal
+- 's" = Soverign
 
 Credit Grades:
-"AAA" = Highest grade, best quality
-"AA"  = Medium grade
-"A"   = Lowest grade, high chance of defaulting
+- "AAA" = Highest grade, best quality
+- "AA"  = Medium grade
+- "A"   = Lowest grade, high chance of defaulting
 
 The Problem:
 The guys in charge of making these deals for cash do not know (or do not care) how much assets are in the company's inventory. They only care about making as much cash as possible to satisfy a daily quota. If a deal has requirements for certain Asset Classes & Credit Grades, they must be satisfied even if the company inventory has run out of those particular assets by borrowing. 
